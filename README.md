@@ -91,19 +91,19 @@ We used **EfficientNetB3**, a more advanced architecture that provides a balance
 
 
 ### **Confusion Matrix - CNN (Variation 2):**
-![Confusion Matrix CNN Variation 2]![Screenshot 2024-09-29 122618](https://github.com/user-attachments/assets/482bf4a0-b9c3-4e01-917b-7e9d5c603c41)
+![Confusion Matrix CNN Variation 2](https://github.com/user-attachments/assets/482bf4a0-b9c3-4e01-917b-7e9d5c603c41)
 
 
 ### **Confusion Matrix - EfficientNetB3 (Variation 1):**
-![Confusion Matrix EfficientNetB3 Variation 1]![Screenshot 2024-09-29 122803](https://github.com/user-attachments/assets/b83273b0-96b3-4e08-8636-96d7f9eec9e3)
+![Confusion Matrix EfficientNetB3 Variation 1](https://github.com/user-attachments/assets/b83273b0-96b3-4e08-8636-96d7f9eec9e3)
 
 
 ### **Confusion Matrix - EfficientNetB3 (Variation 2):**
-![Confusion Matrix EfficientNetB3 Variation 2]![Screenshot 2024-09-29 122854](https://github.com/user-attachments/assets/a4342f70-bcb0-4450-8b30-2ee922c221d7)
+![Confusion Matrix EfficientNetB3 Variation 2](https://github.com/user-attachments/assets/a4342f70-bcb0-4450-8b30-2ee922c221d7)
 
 
 ### **Confusion Matrix - EfficientNetB3 (Variation 3):**
-![Confusion Matrix EfficientNetB3 Variation 3]![Screenshot 2024-09-29 122939](https://github.com/user-attachments/assets/c60efcf7-8f6a-4f2d-ac89-95f2c4059315)
+![Confusion Matrix EfficientNetB3 Variation 3](https://github.com/user-attachments/assets/c60efcf7-8f6a-4f2d-ac89-95f2c4059315)
 
 
 
