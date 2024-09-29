@@ -84,19 +84,28 @@ We used **EfficientNetB3**, a more advanced architecture that provides a balance
 
 ## Confusion Matrices
 
-Include confusion matrices for both CNN and EfficientNetB3 models to assess the true positive, true negative, false positive, and false negative rates for each variation.
+## Model Evaluation
 
-- **CNN Variation 1 Confusion Matrix:**
-  (Add CNN Variation 1 confusion matrix here)
+### **Confusion Matrix - CNN (Variation 1):**
+![Confusion Matrix CNN Variation 1](https://github.com/user-attachments/assets/5676927b-0f50-48d9-8c69-f5b5f9e866a4)  
+*This matrix shows the true positive, false positive, true negative, and false negative rates for CNN (Variation 1).*
 
-- **EfficientNetB3 Variation 1 Confusion Matrix:**
-  (Add EfficientNetB3 Variation 1 confusion matrix here)
+### **Confusion Matrix - CNN (Variation 2):**
+![Confusion Matrix CNN Variation 2](https://github.com/user-attachments/assets/5676927b-0f50-48d9-8c69-f5b5f9e866a4)  
+*Confusion matrix for CNN (Variation 2).*
 
-- **EfficientNetB3 Variation 2 Confusion Matrix:**
-  (Add EfficientNetB3 Variation 2 confusion matrix here)
+### **Confusion Matrix - EfficientNetB3 (Variation 1):**
+![Confusion Matrix EfficientNetB3 Variation 1](https://github.com/user-attachments/assets/5676927b-0f50-48d9-8c69-f5b5f9e866a4)  
+*Confusion matrix showing predictions for EfficientNetB3 (Variation 1).*
 
-- **EfficientNetB3 Variation 3 Confusion Matrix:**
-  (Add EfficientNetB3 Variation 3 confusion matrix here)
+### **Confusion Matrix - EfficientNetB3 (Variation 2):**
+![Confusion Matrix EfficientNetB3 Variation 2](https://github.com/user-attachments/assets/5676927b-0f50-48d9-8c69-f5b5f9e866a4)  
+*Confusion matrix for EfficientNetB3 (Variation 2).*
+
+### **Confusion Matrix - EfficientNetB3 (Variation 3):**
+![Confusion Matrix EfficientNetB3 Variation 3](https://github.com/user-attachments/assets/5676927b-0f50-48d9-8c69-f5b5f9e866a4)  
+*Confusion matrix for EfficientNetB3 (Variation 3).*
+
 
 ---
 
